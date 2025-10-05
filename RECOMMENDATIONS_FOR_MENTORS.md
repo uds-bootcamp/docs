@@ -1,4 +1,4 @@
-# Recommendations for UDS Bootcamp Mentors
+# Recommendations for Mentors
 
 #### **Introduction**
 
