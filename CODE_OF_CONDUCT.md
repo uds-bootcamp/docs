@@ -1,12 +1,12 @@
 # Code of Conduct
 
-## **1.0 Purpose**
+## 1. Purpose
 
 This Code of Conduct establishes the expectations for behavior for all participants in the UDS Bootcamp program.
 
 Its objective is to create a safe, inclusive, and professionally-focused learning environment that is free from harassment and disruption. Adherence to these guidelines is a condition of participation.
 
-## **2.0 Scope**
+## 2. Scope
 
 This policy applies to all individuals involved in the bootcamp, including students, instructors, staff, mentors, guest speakers, and partners. It covers all interactions across bootcamp-affiliated platforms and events, including but not limited to:
 * Video conferencing sessions (e.g., Discord, Zoom, Google Meet)
@@ -14,7 +14,7 @@ This policy applies to all individuals involved in the bootcamp, including stude
 * Collaborative tools (e.g., GitHub, Google Docs)
 * Any in-person events or meetups sanctioned by the bootcamp
 
-## **3.0 Core Principles**
+## 3. Core Principles
 
 All participants are expected to uphold the following principles:
 
@@ -23,7 +23,7 @@ All participants are expected to uphold the following principles:
 * **Inclusivity:** Foster an environment where individuals of all backgrounds feel welcome and valued. This includes, but is not limited to, consideration for race, ethnicity, gender identity and expression, sexual orientation, disability, physical appearance, age, religion, and national origin.
 * **Collaboration:** Promote a collaborative and supportive atmosphere. Learning is a collective effort; participants are encouraged to help one another while maintaining academic integrity.
 
-## **4.0 Expected Behaviors**
+## 4. Expected Behaviors
 
 * **Be an Active Participant:** Engage with the curriculum, complete assignments, and contribute to discussions.
 * **Use Clear and Professional Language:** Avoid jargon where possible and communicate clearly and concisely. Refrain from the use of profanity or offensive language.
@@ -31,7 +31,7 @@ All participants are expected to uphold the following principles:
 * **Respect Time and Attention:** Adhere to schedules, be punctual for sessions, and keep communications relevant to the topic at hand.
 * **Uphold Academic Integrity:** All submitted work must be original, unless collaboration is explicitly permitted. Plagiarism, cheating, or any form of academic dishonesty is strictly prohibited. Cite sources where appropriate.
 
-## **5.0 Unacceptable Behaviors**
+## 5. Unacceptable Behaviors
 
 The following behaviors are considered violations of this Code of Conduct and are strictly prohibited:
 
@@ -48,7 +48,7 @@ The following behaviors are considered violations of this Code of Conduct and ar
 * **Breach of Confidentiality:** Sharing private communications or personal information of other participants without their explicit consent (doxxing).
 * **Spamming:** Posting irrelevant, promotional, or repetitive content in communication channels. Inappropriate use of notifications such as `@here` or `@channel`.
 
-## **6.0 Communication Guidelines**
+## 6. Communication Guidelines
 
 * **Video Conferencing:**
     * Mute your microphone when not speaking to minimize background noise.
@@ -59,7 +59,7 @@ The following behaviors are considered violations of this Code of Conduct and ar
     * Be mindful of time zones and others' online status (e.g., "Do Not Disturb").
     * Structure messages for clarity.
 
-## **7.0 Reporting and Enforcement**
+## 7. Reporting and Enforcement
 
 **7.1 Reporting Violations**
 
