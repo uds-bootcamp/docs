@@ -6,6 +6,7 @@ This repository contains the official governing documents for the UDS Bootcamp. 
 
   * [**Code of Conduct**](./CODE_OF_CONDUCT.md)
   * [**Rules of Participation**](./RULES.md)
+  * [**Frequently Asked Questions (FAQ)**](./FAQ.md)
   * [**Capstone Project Recommendations**](./CAPSTONE_RECOMMENDATIONS.md)
   * [**Recommendations for Mentors**](./RECOMMENDATIONS_FOR_MENTORS.md)
 
@@ -13,7 +14,7 @@ This repository contains the official governing documents for the UDS Bootcamp. 
 
 ## Document Descriptions
 
-### 📜 [Code of Conduct](./CODE_OF_CONDUCT.md)
+### [Code of Conduct](./CODE_OF_CONDUCT.md)
 
 This document establishes the expectations for behavior within the UDS Bootcamp community. It is designed to ensure a safe, inclusive, and professional learning environment free from harassment and disruption.
 
@@ -24,7 +25,7 @@ This document establishes the expectations for behavior within the UDS Bootcamp 
   * **Unacceptable Behaviors:** A comprehensive list including harassment, discrimination, and disruptive actions.
   * **Reporting Protocol:** Clear steps for reporting violations and the subsequent enforcement process.
 
-### 룰 [Rules of Participation](./RULES.md)
+### [Rules of Participation](./RULES.md)
 
 While the Code of Conduct governs interpersonal interactions, this document defines the specific academic and logistical commitments required for successful program completion.
 
@@ -35,7 +36,20 @@ While the Code of Conduct governs interpersonal interactions, this document defi
   * **Participation Requirements:** An active, camera-on policy to foster community and accountability.
   * **The Three-Strike Policy:** The process by which participants may be removed from the program for violations such as unexcused absences, failure to submit major assignments, or repeated non-participation.
 
-### 🏆 [Capstone Project Recommendations](./CAPSTONE_RECOMMENDATIONS.md)
+### [Frequently Asked Questions (FAQ)](./FAQ.md)
+
+This document provides concise answers to common questions about the bootcamp's structure, policies, and requirements, drawing directly from the governing documents.
+
+**Key Topics Covered:**
+
+  * General Program Structure and Expectations
+  * Attendance, Punctuality, and Absences
+  * Assignments and Participation
+  * Program Completion and Consequences (including the Three-Strike Policy)
+  * Code of Conduct and Reporting
+  * Capstone Project Foundations and Requirements
+
+### [Capstone Project Recommendations](./CAPSTONE_RECOMMENDATIONS.md)
 
 This guide provides a framework for students to plan, execute, and deliver a successful final capstone project that serves as a portfolio-worthy piece of work.
 
@@ -45,7 +59,7 @@ This guide provides a framework for students to plan, execute, and deliver a suc
   * **Project Ideas:** Examples and concepts for various specializations, such as Data Science and Data Analytics.
   * **Systematic Framework:** A step-by-step guide for project execution, from ideation and feasibility analysis to version control, documentation (`README.md`), deployment, and creating a case study.
 
-### 👨‍🏫 [Recommendations for Mentors](./RECOMMENDATIONS_FOR_MENTORS.md)
+### [Recommendations for Mentors](./RECOMMENDATIONS_FOR_MENTORS.md)
 
 This is a dedicated guide for bootcamp mentors, synthesizing key principles from all other documents to provide a clear framework for their responsibilities.
 
@@ -60,7 +74,7 @@ This is a dedicated guide for bootcamp mentors, synthesizing key principles from
 
 ## How to Use These Documents
 
-  * **For Participants:** You are required to read and abide by the `Code of Conduct` and `Rules of Participation`. The `Capstone Project Recommendations` will be your primary guide during the final project phase.
+  * **For Participants:** You are required to read and abide by the `Code of Conduct` and `Rules of Participation`. The `Frequently Asked Questions (FAQ)` document provides a quick reference for common rules. The `Capstone Project Recommendations` will be your primary guide during the final project phase.
   * **For Mentors:** You are expected to be familiar with all documents to effectively guide your mentees. Your primary operational guide is the `Recommendations for Mentors`, which details your specific role and responsibilities.
 
 ## Questions and Reporting
