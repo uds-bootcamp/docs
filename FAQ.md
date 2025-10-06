@@ -25,17 +25,6 @@ A: To have an absence marked as excused, participants must notify the program ad
 **Q: What happens if I exceed the allowed number of unexcused absences?**<br/>
 A: Exceeding the allowed number of unexcused absences may result in removal from the program.
 
-## Assignments and Participation
-
-**Q: What is the policy regarding assignment deadlines?**<br/>
-A: All assignments, labs, and project milestones have firm deadlines.
-
-**Q: Is there a grace period for late submissions?**<br/>
-A: A one-time, 24-hour grace period may be granted for a late submission if requested from the instructor *before* the original deadline.
-
-**Q: What is the rule about using my camera during live sessions?**<br/>
-A: All participants are **required to have their cameras turned on** during live instructional sessions to foster an engaging and collaborative virtual classroom. Any specific reason preventing camera use must be discussed privately with the program administrator in advance.
-
 ## Program Completion and Consequences
 
 **Q: What are the minimum requirements to earn a Certificate of Completion?**<br/>
@@ -51,19 +40,16 @@ A: A three-strike policy is used to ensure commitment. A "strike" may be issued 
 * Repeated non-participation or disengagement during sessions (e.g., camera off without permission, lack of response).
 A participant will be removed upon accruing **three (3) strikes**.
 
-## Code of Conduct and Reporting
+## Assignments and Participation
 
-**Q: What kind of behaviors are strictly prohibited?**<br/>
-A: Strictly prohibited unacceptable behaviors include, but are not limited to:
-* Harassment and discrimination related to protected personal characteristics.
-* Deliberate intimidation, stalking, or unwelcome advances.
-* Sustained disruption of events.
-* Disruptive behavior such as trolling or repeatedly speaking over others.
-* Breach of confidentiality (doxxing) or sharing private information without consent.
-* Academic dishonesty (plagiarism, cheating).
+**Q: What is the policy regarding assignment deadlines?**<br/>
+A: All assignments, labs, and project milestones have firm deadlines.
 
-**Q: How do I report a violation of the Code of Conduct?**<br/>
-A: You must report the incident to the designated **program administrator** in private messages. The report should include a description of the incident, the platform, the date/time, the name(s) of the individuals involved, and any available evidence (screenshots/logs).
+**Q: Is there a grace period for late submissions?**<br/>
+A: A one-time, 24-hour grace period may be granted for a late submission if requested from the instructor *before* the original deadline.
+
+**Q: What is the rule about using my camera during live sessions?**<br/>
+A: All participants are **required to have their cameras turned on** during live instructional sessions to foster an engaging and collaborative virtual classroom. Any specific reason preventing camera use must be discussed privately with the program administrator in advance.
 
 ## Capstone Project
 
@@ -93,3 +79,17 @@ A: Mentors must escalate the following issues via private message:
 * Suspected cases of plagiarism or academic dishonesty.
 * A student expressing intent to withdraw.
 * Concerns regarding a participant's well-being or a significant personal emergency.
+
+## Code of Conduct and Reporting
+
+**Q: What kind of behaviors are strictly prohibited?**<br/>
+A: Strictly prohibited unacceptable behaviors include, but are not limited to:
+* Harassment and discrimination related to protected personal characteristics.
+* Deliberate intimidation, stalking, or unwelcome advances.
+* Sustained disruption of events.
+* Disruptive behavior such as trolling or repeatedly speaking over others.
+* Breach of confidentiality (doxxing) or sharing private information without consent.
+* Academic dishonesty (plagiarism, cheating).
+
+**Q: How do I report a violation of the Code of Conduct?**<br/>
+A: You must report the incident to the designated **program administrator** in private messages. The report should include a description of the incident, the platform, the date/time, the name(s) of the individuals involved, and any available evidence (screenshots/logs).
