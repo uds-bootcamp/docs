@@ -1,5 +1,8 @@
 # Frequently Asked Questions
 
+> [!NOTE]
+> If you can't find an answer to your question, [create an issue](https://github.com/uds-bootcamp/docs/issues/new) in this reposity.
+
 ## General Program Structure and Expectations
 
 **Q: What are the core principles participants are expected to uphold?**<br/>
