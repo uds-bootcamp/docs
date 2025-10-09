@@ -1,5 +1,8 @@
 # Code of Conduct
 
+> [!IMPORTANT]
+> Participation in the UDS Bootcamp constitutes an agreement to abide by this Code of Conduct.
+
 ## 1. Purpose
 
 This Code of Conduct establishes the expectations for behavior for all participants in the UDS Bootcamp program.
@@ -84,7 +87,3 @@ Consequences for violating the Code of Conduct will be determined based on the s
 * A formal written warning.
 * Temporary suspension from bootcamp communication channels or sessions.
 * Permanent expulsion from the bootcamp program.
-
----
-
-**Acknowledgment:** Participation in the UDS Bootcamp constitutes an agreement to abide by this Code of Conduct.
