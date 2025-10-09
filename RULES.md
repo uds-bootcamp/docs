@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-These Rules of Participation are supplementary to the UDS Bootcamp Code of Conduct. While the Code of Conduct governs how we interact with each other, these rules define the academic and logistical commitments required for successful completion of the program.
+These Rules of Participation are supplementary to [the Code of Conduct](./CODE_OF_CONDUCT.md). While the Code of Conduct governs how we interact with each other, these rules define the academic and logistical commitments required for successful completion of the program.
 
 As this bootcamp is offered free of charge, participant commitment is essential to maintain a high-quality, productive, and fair learning environment for all dedicated participants. Adherence to these rules is a condition of retaining your spot in the program.
 
