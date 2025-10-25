@@ -9,6 +9,7 @@ This repository contains the official governing documents for the UDS Bootcamp. 
   * [**Frequently Asked Questions (FAQ)**](./FAQ.md)
   * [**Capstone Project Recommendations**](./CAPSTONE_RECOMMENDATIONS.md)
   * [**Recommendations for Mentors**](./RECOMMENDATIONS_FOR_MENTORS.md)
+  * [**Bootcamp Improvement by Students**](./IMPROVEMENT.md)
 
 -----
 
@@ -69,6 +70,17 @@ This is a dedicated guide for bootcamp mentors, synthesizing key principles from
   * **Guidance on Technical Work:** Enforcing submission deadlines and ensuring students make a good-faith effort.
   * **Mentoring the Capstone Project:** Helping mentees define a manageable scope (MVP), reinforce foundational principles, and follow the systematic execution framework.
   * **Communication and Reporting:** Protocol for escalating issues such as Code of Conduct violations, students at risk of accruing a strike, or cases of academic dishonesty to the program administrator.
+
+### [Bootcamp Improvement by Students](./IMPROVEMENT.md)
+
+This document outlines how students can surface issues, propose solutions, and help implement improvements to the bootcamp experience.
+
+**Key Topics Covered:**
+
+  * **Guiding Principles:** Collaboration, data-informed decisions, inclusive representation, and transparent follow-through.
+  * **Improvement Lifecycle:** Step-by-step process from identifying opportunities to piloting and documenting outcomes.
+  * **Student Working Groups:** How cohorts can organize, scope, and report on targeted initiatives.
+  * **Feedback Channels and Tracking:** Official pathways for sharing ideas, logging proposals, measuring success, and resolving conflicts.
 
 -----
 
