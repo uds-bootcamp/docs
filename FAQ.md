@@ -9,7 +9,7 @@
 A: All participants are expected to uphold the core principles of **Professionalism**, **Respect**, **Inclusivity**, and **Collaboration** in all interactions.
 
 **Q: Where do the rules of the bootcamp apply?**<br/>
-A: The Code of Conduct applies to all individuals and covers interactions across all bootcamp-affiliated platforms and events, including video conferencing, instant messaging platforms (Slack, Discord), collaborative tools (GitHub), and any sanctioned in-person events.
+A: The Code of Conduct applies to all individuals and covers interactions across all bootcamp-affiliated platforms and events, including video conferencing, instant messaging platforms (Discord), collaborative tools (GitHub), and any sanctioned in-person events.
 
 **Q: What are the main program documents?**<br/>
 A: The main documents governing the program are the `Code of Conduct`, `Rules of Participation`, `Capstone Project Recommendations`, and `Recommendations for Mentors`.

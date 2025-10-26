@@ -13,7 +13,7 @@ Its objective is to create a safe, inclusive, and professionally-focused learnin
 
 This policy applies to all individuals involved in the bootcamp, including participants, instructors, staff, mentors, guest speakers, and partners. It covers all interactions across bootcamp-affiliated platforms and events, including but not limited to:
 * Video conferencing sessions (e.g., Discord, Zoom, Google Meet)
-* Instant messaging platforms (e.g., Slack, Discord)
+* Instant messaging platforms (e.g., Discord)
 * Collaborative tools (e.g., GitHub, Google Docs)
 * Any in-person events or meetups sanctioned by the bootcamp
 
@@ -57,7 +57,7 @@ The following behaviors are considered violations of this Code of Conduct and ar
     * Mute your microphone when not speaking to minimize background noise.
     * Use the "raise hand" feature or other established protocols before speaking.
     * Ensure your background is free of disruptive or inappropriate content.
-* **Written Communication (Slack, Discord, Email):**
+* **Written Communication (Discord, Email):**
     * Use public channels for questions that may benefit others. Use direct messages for private or personal matters.
     * Be mindful of time zones and others' online status (e.g., "Do Not Disturb").
     * Structure messages for clarity.
@@ -70,7 +70,7 @@ If you are the subject of or witness to any violations of this Code of Conduct, 
 
 All reports will be handled with discretion and confidentiality to the extent possible. Reports should include:
 * A description of the incident.
-* The platform where the incident occurred (e.g., Slack, Zoom).
+* The platform where the incident occurred (e.g., Discord, Zoom).
 * The date and time of the incident.
 * The name(s) of the individual(s) involved.
 * Screenshots or logs, if available.

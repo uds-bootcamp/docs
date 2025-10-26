@@ -91,4 +91,4 @@ This document outlines how participants can surface issues, propose solutions, a
 
 ## Questions and Reporting
 
-For any questions regarding these documents or to report a violation of the Code of Conduct, please contact the **Program Administrator** through the designated private channels (e.g., a direct message on Slack/Discord).
+For any questions regarding these documents or to report a violation of the Code of Conduct, please contact the **Program Administrator** through the designated private channels (e.g., a direct message on Discord).

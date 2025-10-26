@@ -41,7 +41,7 @@ This document describes how participants can propose, champion, and verify impro
 - **Weekly Retrospectives:** Dedicated time to surface quick fixes and gather anonymous input.
 - **Surveys:** Run by the program team at mid-point and graduation; participants may request additional pulse surveys for targeted topics.
 - **Open Forum Sessions:** Monthly meetings where participants present proposals to leadership and mentors.
-- **Async Threads:** Use the designated Slack/Discord channels for ongoing discussion and documentation.
+- **Async Threads:** Use the designated Discord channels for ongoing discussion and documentation.
 
 ## Tracking and Accountability
 
