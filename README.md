@@ -19,29 +19,36 @@ This repository contains the official governing documents for the UDS Bootcamp. 
 
 This document establishes the expectations for behavior within the UDS Bootcamp community. It is designed to ensure a safe, inclusive, and professional learning environment free from harassment and disruption.
 
-**Key Topics Covered:**
+<details>
+<summary><strong>Key Topics Covered</strong></summary>
 
   * **Core Principles:** Professionalism, Respect, Inclusivity, and Collaboration.
   * **Expected Behaviors:** Active participation, constructive feedback, and academic integrity.
   * **Unacceptable Behaviors:** A comprehensive list including harassment, discrimination, and disruptive actions.
   * **Reporting Protocol:** Clear steps for reporting violations and the subsequent enforcement process.
 
+</details>
+
 ### [Rules of Participation](./RULES.md)
 
 While the Code of Conduct governs interpersonal interactions, this document defines the specific academic and logistical commitments required for successful program completion.
 
-**Key Topics Covered:**
+<details>
+<summary><strong>Key Topics Covered</strong></summary>
 
   * **Attendance Policy:** Mandatory attendance for live sessions, with a maximum of two unexcused absences permitted.
   * **Assignment Submissions:** Firm deadlines, a 24-hour grace period (if requested in advance), and the requirement for a good-faith effort on all work.
   * **Participation Requirements:** An active, camera-on policy to foster community and accountability.
   * **The Three-Strike Policy:** The process by which participants may be removed from the program for violations such as unexcused absences, failure to submit major assignments, or repeated non-participation.
 
+</details>
+
 ### [Frequently Asked Questions (FAQ)](./FAQ.md)
 
 This document provides concise answers to common questions about the bootcamp's structure, policies, and requirements, drawing directly from the governing documents.
 
-**Key Topics Covered:**
+<details>
+<summary><strong>Key Topics Covered</strong></summary>
 
   * General Program Structure and Expectations
   * Attendance, Punctuality, and Absences
@@ -50,37 +57,48 @@ This document provides concise answers to common questions about the bootcamp's 
   * Code of Conduct and Reporting
   * Capstone Project Foundations and Requirements
 
+</details>
+
 ### [Capstone Project Recommendations](./CAPSTONE_RECOMMENDATIONS.md)
 
 This guide provides a framework for participants to plan, execute, and deliver a successful final capstone project that serves as a portfolio-worthy piece of work.
 
-**Key Topics Covered:**
+<details>
+<summary><strong>Key Topics Covered</strong></summary>
 
   * **Foundational Principles:** The project must demonstrate core competencies, solve a non-trivial problem, be data-centric, and have a manageable scope (MVP).
   * **Project Ideas:** Examples and concepts for various specializations, such as Data Science and Data Analytics.
   * **Systematic Framework:** A step-by-step guide for project execution, from ideation and feasibility analysis to version control, documentation (`README.md`), deployment, and creating a case study.
 
+</details>
+
 ### [Recommendations for Mentors](./RECOMMENDATIONS_FOR_MENTORS.md)
 
 This is a dedicated guide for bootcamp mentors, synthesizing key principles from all other documents to provide a clear framework for their responsibilities.
 
-**Key Topics Covered:**
+<details>
+<summary><strong>Key Topics Covered</strong></summary>
 
   * **Core Principles of Mentorship:** Modeling professionalism, fostering a safe environment, and upholding academic integrity.
   * **Guidance on Technical Work:** Enforcing submission deadlines and ensuring participants make a good-faith effort.
   * **Mentoring the Capstone Project:** Helping mentees define a manageable scope (MVP), reinforce foundational principles, and follow the systematic execution framework.
   * **Communication and Reporting:** Protocol for escalating issues such as Code of Conduct violations, participants at risk of accruing a strike, or cases of academic dishonesty to the program administrator.
 
+</details>
+
 ### [Bootcamp Improvement by Participants](./IMPROVEMENT.md)
 
 This document outlines how participants can surface issues, propose solutions, and help implement improvements to the bootcamp experience.
 
-**Key Topics Covered:**
+<details>
+<summary><strong>Key Topics Covered</strong></summary>
 
   * **Guiding Principles:** Collaboration, data-informed decisions, inclusive representation, and transparent follow-through.
   * **Improvement Lifecycle:** Step-by-step process from identifying opportunities to piloting and documenting outcomes.
   * **Participant Working Groups:** How cohorts can organize, scope, and report on targeted initiatives.
   * **Feedback Channels and Tracking:** Official pathways for sharing ideas, logging proposals, measuring success, and resolving conflicts.
+
+</details>
 
 -----
 
