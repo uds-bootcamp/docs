@@ -11,7 +11,7 @@ Its objective is to create a safe, inclusive, and professionally-focused learnin
 
 ## 2. Scope
 
-This policy applies to all individuals involved in the bootcamp, including students, instructors, staff, mentors, guest speakers, and partners. It covers all interactions across bootcamp-affiliated platforms and events, including but not limited to:
+This policy applies to all individuals involved in the bootcamp, including participants, instructors, staff, mentors, guest speakers, and partners. It covers all interactions across bootcamp-affiliated platforms and events, including but not limited to:
 * Video conferencing sessions (e.g., Discord, Zoom, Google Meet)
 * Instant messaging platforms (e.g., Slack, Discord)
 * Collaborative tools (e.g., GitHub, Google Docs)

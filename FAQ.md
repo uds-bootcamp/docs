@@ -78,9 +78,9 @@ A: Mentors must remind mentees that all assignments have firm deadlines and that
 **Q: What issues should a mentor escalate to the program administrator?**<br/>
 A: Mentors must escalate the following issues via private message:
 * Any witnessed or reported violation of the Code of Conduct.
-* A student who is at risk of accruing a strike or has already accrued one.
+* A participant who is at risk of accruing a strike or has already accrued one.
 * Suspected cases of plagiarism or academic dishonesty.
-* A student expressing intent to withdraw.
+* A participant expressing intent to withdraw.
 * Concerns regarding a participant's well-being or a significant personal emergency.
 
 ## Code of Conduct and Reporting

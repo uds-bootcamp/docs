@@ -9,7 +9,7 @@ This repository contains the official governing documents for the UDS Bootcamp. 
   * [**Frequently Asked Questions (FAQ)**](./FAQ.md)
   * [**Capstone Project Recommendations**](./CAPSTONE_RECOMMENDATIONS.md)
   * [**Recommendations for Mentors**](./RECOMMENDATIONS_FOR_MENTORS.md)
-  * [**Bootcamp Improvement by Students**](./IMPROVEMENT.md)
+  * [**Bootcamp Improvement by Participants**](./IMPROVEMENT.md)
 
 -----
 
@@ -52,7 +52,7 @@ This document provides concise answers to common questions about the bootcamp's 
 
 ### [Capstone Project Recommendations](./CAPSTONE_RECOMMENDATIONS.md)
 
-This guide provides a framework for students to plan, execute, and deliver a successful final capstone project that serves as a portfolio-worthy piece of work.
+This guide provides a framework for participants to plan, execute, and deliver a successful final capstone project that serves as a portfolio-worthy piece of work.
 
 **Key Topics Covered:**
 
@@ -67,19 +67,19 @@ This is a dedicated guide for bootcamp mentors, synthesizing key principles from
 **Key Topics Covered:**
 
   * **Core Principles of Mentorship:** Modeling professionalism, fostering a safe environment, and upholding academic integrity.
-  * **Guidance on Technical Work:** Enforcing submission deadlines and ensuring students make a good-faith effort.
+  * **Guidance on Technical Work:** Enforcing submission deadlines and ensuring participants make a good-faith effort.
   * **Mentoring the Capstone Project:** Helping mentees define a manageable scope (MVP), reinforce foundational principles, and follow the systematic execution framework.
-  * **Communication and Reporting:** Protocol for escalating issues such as Code of Conduct violations, students at risk of accruing a strike, or cases of academic dishonesty to the program administrator.
+  * **Communication and Reporting:** Protocol for escalating issues such as Code of Conduct violations, participants at risk of accruing a strike, or cases of academic dishonesty to the program administrator.
 
-### [Bootcamp Improvement by Students](./IMPROVEMENT.md)
+### [Bootcamp Improvement by Participants](./IMPROVEMENT.md)
 
-This document outlines how students can surface issues, propose solutions, and help implement improvements to the bootcamp experience.
+This document outlines how participants can surface issues, propose solutions, and help implement improvements to the bootcamp experience.
 
 **Key Topics Covered:**
 
   * **Guiding Principles:** Collaboration, data-informed decisions, inclusive representation, and transparent follow-through.
   * **Improvement Lifecycle:** Step-by-step process from identifying opportunities to piloting and documenting outcomes.
-  * **Student Working Groups:** How cohorts can organize, scope, and report on targeted initiatives.
+  * **Participant Working Groups:** How cohorts can organize, scope, and report on targeted initiatives.
   * **Feedback Channels and Tracking:** Official pathways for sharing ideas, logging proposals, measuring success, and resolving conflicts.
 
 -----
