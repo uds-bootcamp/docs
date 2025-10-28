@@ -9,10 +9,10 @@
 A: All participants are expected to uphold the core principles of **Professionalism**, **Respect**, **Inclusivity**, and **Collaboration** in all interactions.
 
 **Q: Where do the rules of the bootcamp apply?**<br/>
-A: The Code of Conduct applies to all individuals and covers interactions across all bootcamp-affiliated platforms and events, including video conferencing, instant messaging platforms (Discord), collaborative tools (GitHub), and any sanctioned in-person events.
+A: The [Code of Conduct](./CODE_OF_CONDUCT.md) applies to all individuals and covers interactions across all bootcamp-affiliated platforms and events, including video conferencing, instant messaging platforms (Discord), collaborative tools (GitHub), and any sanctioned in-person events.
 
 **Q: What are the main program documents?**<br/>
-A: The main documents governing the program are the `Code of Conduct`, `Rules of Participation`, `Capstone Project Recommendations`, and `Recommendations for Mentors`.
+A: The main documents governing the program are the [`Code of Conduct`](./CODE_OF_CONDUCT.md), [`Rules of Participation`](./RULES.md), [`Capstone Project Recommendations`](./CAPSTONE_RECOMMENDATIONS.md), and [`Recommendations for Mentors`](./RECOMMENDATIONS_FOR_MENTORS.md).
 
 ## Attendance, Punctuality, and Absences
 
@@ -77,13 +77,13 @@ A: Mentors must remind mentees that all assignments have firm deadlines and that
 
 **Q: What issues should a mentor escalate to the program administrator?**<br/>
 A: Mentors must escalate the following issues via private message:
-* Any witnessed or reported violation of the Code of Conduct.
+* Any witnessed or reported violation of the [Code of Conduct](./CODE_OF_CONDUCT.md).
 * A participant who is at risk of accruing a strike or has already accrued one.
 * Suspected cases of plagiarism or academic dishonesty.
 * A participant expressing intent to withdraw.
 * Concerns regarding a participant's well-being or a significant personal emergency.
 
-## Code of Conduct and Reporting
+## [Code of Conduct](./CODE_OF_CONDUCT.md) and Reporting
 
 **Q: What kind of behaviors are strictly prohibited?**<br/>
 A: Strictly prohibited unacceptable behaviors include, but are not limited to:
@@ -94,5 +94,5 @@ A: Strictly prohibited unacceptable behaviors include, but are not limited to:
 * Breach of confidentiality (doxxing) or sharing private information without consent.
 * Academic dishonesty (plagiarism, cheating).
 
-**Q: How do I report a violation of the Code of Conduct?**<br/>
+**Q: How do I report a violation of the [Code of Conduct](./CODE_OF_CONDUCT.md)?**<br/>
 A: You must report the incident to the designated **program administrator** in private messages. The report should include a description of the incident, the platform, the date/time, the name(s) of the individuals involved, and any available evidence (screenshots/logs).

@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-As a mentor, your role is central to the success of the participants and the integrity of the UDS Bootcamp. This guide synthesizes the key principles from the program's governing documents—the Code of Conduct, Rules of Participation, and Capstone Recommendations—to provide a clear framework for your responsibilities. Your primary functions are to provide expert technical guidance, model professional behavior, and uphold the academic standards of the program.
+As a mentor, your role is central to the success of the participants and the integrity of the UDS Bootcamp. This guide synthesizes the key principles from the program's governing documents—the [Code of Conduct](./CODE_OF_CONDUCT.md), [Rules of Participation](./RULES.md), and [Capstone Recommendations](./CAPSTONE_RECOMMENDATIONS.md)—to provide a clear framework for your responsibilities. Your primary functions are to provide expert technical guidance, model professional behavior, and uphold the academic standards of the program.
 
 ---
 
@@ -13,7 +13,7 @@ Your conduct sets the tone for the entire cohort. It is essential to embody the 
 * **Model Professionalism and Respect:** Your behavior should serve as an example of the professional conduct expected in the workplace. Treat all participants with respect, regardless of their experience level, background, or identity.
 * **Foster a Safe and Inclusive Environment:** Actively contribute to a learning environment where all individuals feel welcome, valued, and safe from harassment or discrimination. Be familiar with the list of unacceptable behaviors, such as offensive comments, intimidation, and unwelcome advances.
 * **Promote Collaboration and Academic Integrity:** Encourage participants to help one another as part of a collective learning effort. However, ensure all submitted work remains original unless collaboration is explicitly permitted. Guide participants to solutions rather than providing direct answers to uphold academic integrity.
-* **Maintain Confidentiality:** Handle all reports of Code of Conduct violations with discretion. Do not share private communications or personal information about participants without their explicit consent.
+* **Maintain Confidentiality:** Handle all reports of [Code of Conduct](./CODE_OF_CONDUCT.md) violations with discretion. Do not share private communications or personal information about participants without their explicit consent.
 
 ## 2. Guidance on Technical Work and Assignments
 
@@ -57,7 +57,7 @@ Clear communication and timely escalation are essential for addressing issues be
     * Mute your microphone when not speaking in video calls and use the "raise hand" feature.
     * Ensure your own virtual background is professional and free of disruptive content.
 * **Escalate Issues to the Program Administrator:** Your role is to mentor, not to enforce all disciplinary action. You must report the following to the program administrator via private message:
-    * Any witnessed or reported violation of the Code of Conduct.
+    * Any witnessed or reported violation of the [Code of Conduct](./CODE_OF_CONDUCT.md).
     * A participant who is at risk of accruing a strike or has already accrued one.
     * Suspected cases of plagiarism or academic dishonesty.
     * A participant expressing their intent to withdraw from the program.
