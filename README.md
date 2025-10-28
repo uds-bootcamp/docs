@@ -31,7 +31,7 @@ This document establishes the expectations for behavior within the UDS Bootcamp 
 
 ### [Rules of Participation](./RULES.md)
 
-While the Code of Conduct governs interpersonal interactions, this document defines the specific academic and logistical commitments required for successful program completion.
+While the [Code of Conduct](./CODE_OF_CONDUCT.md) governs interpersonal interactions, this document defines the specific academic and logistical commitments required for successful program completion.
 
 <details>
 <summary><strong>Key Topics Covered</strong></summary>
@@ -54,7 +54,7 @@ This document provides concise answers to common questions about the bootcamp's 
   * Attendance, Punctuality, and Absences
   * Assignments and Participation
   * Program Completion and Consequences (including the Three-Strike Policy)
-  * Code of Conduct and Reporting
+  * [Code of Conduct](./CODE_OF_CONDUCT.md) and Reporting
   * Capstone Project Foundations and Requirements
 
 </details>
@@ -82,7 +82,7 @@ This is a dedicated guide for bootcamp mentors, synthesizing key principles from
   * **Core Principles of Mentorship:** Modeling professionalism, fostering a safe environment, and upholding academic integrity.
   * **Guidance on Technical Work:** Enforcing submission deadlines and ensuring participants make a good-faith effort.
   * **Mentoring the Capstone Project:** Helping mentees define a manageable scope (MVP), reinforce foundational principles, and follow the systematic execution framework.
-  * **Communication and Reporting:** Protocol for escalating issues such as Code of Conduct violations, participants at risk of accruing a strike, or cases of academic dishonesty to the program administrator.
+  * **Communication and Reporting:** Protocol for escalating issues such as [Code of Conduct](./CODE_OF_CONDUCT.md) violations, participants at risk of accruing a strike, or cases of academic dishonesty to the program administrator.
 
 </details>
 
@@ -104,9 +104,9 @@ This document outlines how participants can surface issues, propose solutions, a
 
 ## How to Use These Documents
 
-  * **For Participants:** You are required to read and abide by the `Code of Conduct` and `Rules of Participation`. The `Frequently Asked Questions (FAQ)` document provides a quick reference for common rules. The `Capstone Project Recommendations` will be your primary guide during the final project phase.
-  * **For Mentors:** You are expected to be familiar with all documents to effectively guide your mentees. Your primary operational guide is the `Recommendations for Mentors`, which details your specific role and responsibilities.
+  * **For Participants:** You are required to read and abide by the [`Code of Conduct`](./CODE_OF_CONDUCT.md) and [`Rules of Participation`](./RULES.md). The [`Frequently Asked Questions (FAQ)`](./FAQ.md) document provides a quick reference for common rules. The [`Capstone Project Recommendations`](./CAPSTONE_RECOMMENDATIONS.md) will be your primary guide during the final project phase.
+  * **For Mentors:** You are expected to be familiar with all documents to effectively guide your mentees. Your primary operational guide is the [`Recommendations for Mentors`](./RECOMMENDATIONS_FOR_MENTORS.md), which details your specific role and responsibilities.
 
 ## Questions and Reporting
 
-For any questions regarding these documents or to report a violation of the Code of Conduct, please contact the **Program Administrator** through the designated private channels (e.g., a direct message on Discord).
+For any questions regarding these documents or to report a violation of the [Code of Conduct](./CODE_OF_CONDUCT.md), please contact the **Program Administrator** through the designated private channels (e.g., a direct message on Discord).
