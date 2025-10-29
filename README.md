@@ -1,5 +1,7 @@
 # UDS Bootcamp Program Governance
 
+**Translations:** [🇺🇦 Українська](./uk/README.md)
+
 This repository contains the official governing documents for the UDS Bootcamp. These files outline the standards of conduct, academic requirements, and operational guidelines for all participants, mentors, and staff. Adherence to these policies is mandatory and essential for maintaining a safe, productive, and fair learning environment for everyone involved.
 
 ## Table of Contents
